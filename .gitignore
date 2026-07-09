@@ -1,0 +1,6 @@
+venv/
+.venv/
+organized_dataset/
+mask_model.keras
+__pycache__/
+_pycache_/
